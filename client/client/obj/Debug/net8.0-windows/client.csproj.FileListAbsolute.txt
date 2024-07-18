@@ -1,0 +1,16 @@
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.Form1.resources
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.csproj.GenerateResource.cache
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.AssemblyInfoInputs.cache
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.AssemblyInfo.cs
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.csproj.CoreCompileInputs.cache
+D:\Year3ki2\Lập trình mạng\bosung\client\client\bin\Debug\net8.0-windows\client.exe
+D:\Year3ki2\Lập trình mạng\bosung\client\client\bin\Debug\net8.0-windows\client.deps.json
+D:\Year3ki2\Lập trình mạng\bosung\client\client\bin\Debug\net8.0-windows\client.runtimeconfig.json
+D:\Year3ki2\Lập trình mạng\bosung\client\client\bin\Debug\net8.0-windows\client.dll
+D:\Year3ki2\Lập trình mạng\bosung\client\client\bin\Debug\net8.0-windows\client.pdb
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.dll
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\refint\client.dll
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.pdb
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\client.genruntimeconfig.cache
+D:\Year3ki2\Lập trình mạng\bosung\client\client\obj\Debug\net8.0-windows\ref\client.dll

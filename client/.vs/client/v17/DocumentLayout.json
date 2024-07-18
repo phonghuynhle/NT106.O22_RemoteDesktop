@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year3ki2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75BEE3-73E4-4B47-8AE8-C243EB33C5F6}|client\\client.csproj|d:\\year3ki2\\l\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F75BEE3-73E4-4B47-8AE8-C243EB33C5F6}|client\\client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75BEE3-73E4-4B47-8AE8-C243EB33C5F6}|client\\client.csproj|D:\\Year3ki2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F75BEE3-73E4-4B47-8AE8-C243EB33C5F6}|client\\client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Year3ki2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\client\\Form1.cs",
+              "RelativeDocumentMoniker": "client\\Form1.cs",
+              "ToolTip": "D:\\Year3ki2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\client\\Form1.cs",
+              "RelativeToolTip": "client\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAIAwwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:50:37.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Year3ki2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\client\\Form1.cs",
+              "RelativeDocumentMoniker": "client\\Form1.cs",
+              "ToolTip": "D:\\Year3ki2\\L\u1EADp tr\u00ECnh m\u1EA1ng\\bosung\\client\\client\\Form1.cs [Design]",
+              "RelativeToolTip": "client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:46:22.538Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
